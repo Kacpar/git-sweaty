@@ -2,9 +2,9 @@
 source: "strava"  # "strava" or "garmin"
 
 strava:
-  client_id: ""
-  client_secret: ""
-  refresh_token: ""
+  client_id: "210523"
+  client_secret: "21da5cad7af28a5f83be21192a1480b0a4a043fe"
+  refresh_token: "23c2a34c84e8c507f45d1df377eff7e013b2d5c7"
   profile_url: "" # optional dashboard header profile link
   include_activity_urls: false # when true, tooltip details can show links to individual Strava activities
 
