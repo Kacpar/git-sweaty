@@ -35,47 +35,47 @@ rate_limits:
 
 activities:
   types:
-    - AlpineSki
+    #- AlpineSki
     - BackcountrySki
     - Badminton
-    - Canoeing
+    #- Canoeing
     - Crossfit
-    - EBikeRide
-    - Elliptical
+    #- EBikeRide
+    #- Elliptical
     - EMountainBikeRide
     - Golf
     - GravelRide
-    - Handcycle
+    #- Handcycle
     - HighIntensityIntervalTraining
     - Hike
     - IceSkate
-    - InlineSkate
-    - Kayaking
+    #- InlineSkate
+    #- Kayaking
     - Kitesurf
     - MountainBikeRide
     - NordicSki
-    - Pickleball
-    - Pilates
-    - Racquetball
-    - Ride
-    - RockClimbing
-    - RollerSki
+    #- Pickleball
+    #- Pilates
+    #- Racquetball
+    #- Ride
+    #- RockClimbing
+    #- RollerSki
     - Rowing
     - Run
-    - Sail
-    - Skateboard
+    #- Sail
+    #- Skateboard
     - Snowboard
-    - Snowshoe
+    #- Snowshoe
     - Soccer
     - Squash
     - StairStepper
     - StandUpPaddling
     - Surfing
     - Swim
-    - TableTennis
-    - Tennis
+    #- TableTennis
+    #- Tennis
     - TrailRun
-    - Velomobile
+    #- Velomobile
     - VirtualRide
     - VirtualRow
     - VirtualRun
