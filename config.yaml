@@ -81,11 +81,10 @@ activities:
     - VirtualRun
     - Walk
     - WeightTraining
-    - Wheelchair
     - Windsurf
     - Workout
     - Yoga
-  include_all_types: true   # include all observed activity types by default
+  include_all_types: false   # include all observed activity types by default
   exclude_types: []         # optional explicit exclusions while still allowing new sport types
   group_other_types: false  # when false, keep raw source activity names as-is
   other_bucket: OtherSports # fallback bucket for unknown activity categories
@@ -93,8 +92,8 @@ activities:
   type_aliases: {}          # optional explicit remaps; keep empty for exact source naming
 
 units:
-  distance: "mi"   # "mi" or "km"
-  elevation: "ft"  # "ft" or "m"
+  distance: "km"   # "mi" or "km"
+  elevation: "m"  # "ft" or "m"
 
 heatmaps:
-  week_start: "sunday" # "sunday" or "monday"
+  week_start: "monday" # "sunday" or "monday"
