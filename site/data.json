@@ -15063,6 +15063,13 @@
       "subtype": "Rowing",
       "type": "Rowing",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 17,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34031,6 +34038,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3336.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17755553746"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3075.0
         }
       },
       "Workout": {
@@ -34091,7 +34107,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T15:54:10.139315+00:00",
+  "generated_at": "2026-03-18T16:00:24.816855+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kacpar/git-sweaty",
   "source": "strava",
