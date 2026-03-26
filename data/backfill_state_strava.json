@@ -14,6 +14,7 @@
       "Kitesurf",
       "MountainBikeRide",
       "NordicSki",
+      "Ride",
       "Rowing",
       "Run",
       "Snowboard",
@@ -41,8 +42,8 @@
   },
   "after": 0,
   "completed": true,
-  "last_run_utc": "2026-03-25T15:59:02.748204+00:00",
-  "newest_seen_ts": 1773242658,
+  "last_run_utc": "2026-03-26T16:05:20.678523+00:00",
+  "newest_seen_ts": 1774451266,
   "next_before": null,
   "oldest_seen_ts": 1303659808,
   "rate_limited": false
