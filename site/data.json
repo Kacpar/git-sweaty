@@ -18262,6 +18262,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 17,
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 17,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40509,6 +40530,15 @@
           "distance": 30671.8,
           "elevation_gain": 94.0,
           "moving_time": 4730.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18121053365"
+          ],
+          "count": 1,
+          "distance": 45500.2,
+          "elevation_gain": 124.0,
+          "moving_time": 7673.0
         }
       },
       "IceSkate": {
@@ -40843,6 +40873,15 @@
         "2026-04-13": {
           "activity_ids": [
             "18092416409"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 602.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18133150300"
           ],
           "count": 1,
           "distance": 0.0,
@@ -41313,6 +41352,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3468.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18133150586"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3286.0
         }
       },
       "Workout": {
@@ -41373,7 +41421,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T15:58:14.948178+00:00",
+  "generated_at": "2026-04-16T16:16:17.230359+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kacpar/git-sweaty",
   "source": "strava",
