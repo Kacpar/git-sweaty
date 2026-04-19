@@ -33954,5 +33954,18 @@
     "start_date_local": "2026-04-16T17:27:36Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 45645.4,
+    "elevation_gain": 182.0,
+    "id": "18168272456",
+    "moving_time": 7256.0,
+    "name": "Morning Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-19T10:14:05Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
