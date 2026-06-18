@@ -34630,5 +34630,18 @@
     "start_date_local": "2026-06-16T17:20:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 51299.6,
+    "elevation_gain": 183.0,
+    "id": "18973581447",
+    "moving_time": 8157.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-18T17:15:23Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
