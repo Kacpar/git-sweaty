@@ -34799,5 +34799,18 @@
     "start_date_local": "2026-07-08T18:02:54Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 102030.0,
+    "elevation_gain": 597.0,
+    "id": "19268904465",
+    "moving_time": 14203.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-11T12:02:37Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
