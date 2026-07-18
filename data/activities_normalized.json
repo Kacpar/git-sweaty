@@ -34890,5 +34890,18 @@
     "start_date_local": "2026-07-16T17:19:16Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 78078.7,
+    "elevation_gain": 395.0,
+    "id": "19361019589",
+    "moving_time": 12406.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-18T09:27:19Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
