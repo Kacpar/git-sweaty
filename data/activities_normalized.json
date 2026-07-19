@@ -34903,5 +34903,18 @@
     "start_date_local": "2026-07-18T09:27:19Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 9110.7,
+    "elevation_gain": 35.0,
+    "id": "19373225434",
+    "moving_time": 3362.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T11:34:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
