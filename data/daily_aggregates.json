@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:13:05.691730+00:00",
+  "generated_at": "2026-07-23T16:18:17.531425+00:00",
   "years": {
     "2011": {
       "Ride": {
@@ -22462,6 +22462,15 @@
           "distance": 78078.7,
           "elevation_gain": 395.0,
           "moving_time": 12406.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19420940270"
+          ],
+          "count": 1,
+          "distance": 56644.9,
+          "elevation_gain": 211.0,
+          "moving_time": 8942.0
         }
       },
       "IceSkate": {
@@ -23073,6 +23082,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 597.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19433916154"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 572.0
         }
       },
       "Run": {
@@ -23752,6 +23770,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3274.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19433916174"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3460.0
         }
       },
       "Workout": {
