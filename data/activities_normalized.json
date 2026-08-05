@@ -35111,5 +35111,18 @@
     "start_date_local": "2026-08-04T10:17:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 55798.9,
+    "elevation_gain": 178.0,
+    "id": "19608916355",
+    "moving_time": 8393.0,
+    "name": "4 silda",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-05T09:02:12Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

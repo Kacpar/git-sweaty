@@ -18906,6 +18906,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 9,
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -41406,6 +41413,15 @@
           "distance": 66198.2,
           "elevation_gain": 351.0,
           "moving_time": 11489.0
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "19608916355"
+          ],
+          "count": 1,
+          "distance": 55798.9,
+          "elevation_gain": 178.0,
+          "moving_time": 8393.0
         }
       },
       "IceSkate": {
@@ -42837,7 +42853,7 @@
       }
     }
   },
-  "generated_at": "2026-08-04T16:45:41.960683+00:00",
+  "generated_at": "2026-08-05T16:25:36.923044+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kacpar/git-sweaty",
   "source": "strava",
