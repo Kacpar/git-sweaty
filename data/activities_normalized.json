@@ -35553,5 +35553,18 @@
     "start_date_local": "2026-09-15T09:33:18Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 59203.7,
+    "elevation_gain": 977.0,
+    "id": "20198869731",
+    "moving_time": 13143.0,
+    "name": "Epernay gravel",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-16T09:31:54Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
