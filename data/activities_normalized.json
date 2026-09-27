@@ -35631,5 +35631,18 @@
     "start_date_local": "2026-09-26T10:43:07Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 73410.8,
+    "elevation_gain": 254.0,
+    "id": "20350399032",
+    "moving_time": 11814.0,
+    "name": "J\u00e4lle auk sees",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-27T10:24:34Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
