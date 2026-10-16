@@ -35852,5 +35852,18 @@
     "start_date_local": "2026-10-14T17:57:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 6619.8,
+    "elevation_gain": 50.0,
+    "id": "20607001163",
+    "moving_time": 6274.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-16T11:14:53Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
