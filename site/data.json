@@ -19312,6 +19312,13 @@
       "subtype": "Hike",
       "type": "Hike",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 10,
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42002,6 +42009,15 @@
           "distance": 52427.4,
           "elevation_gain": 219.0,
           "moving_time": 8143.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20632249487"
+          ],
+          "count": 1,
+          "distance": 51480.3,
+          "elevation_gain": 114.8,
+          "moving_time": 8340.0
         }
       },
       "Hike": {
@@ -43761,7 +43777,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T17:35:31.065428+00:00",
+  "generated_at": "2026-10-18T17:38:16.012234+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kacpar/git-sweaty",
   "source": "strava",
