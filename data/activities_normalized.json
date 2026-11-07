@@ -36190,5 +36190,18 @@
     "start_date_local": "2026-11-05T17:12:03Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 83168.1,
+    "elevation_gain": 415.0,
+    "id": "20894008234",
+    "moving_time": 12211.0,
+    "name": "GravDay Aruk\u00fcla",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-11-07T10:10:52Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
